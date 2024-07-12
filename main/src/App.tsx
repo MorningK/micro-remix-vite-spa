@@ -33,7 +33,7 @@ function App() {
         <h1>Remix SPA APP</h1>
         {
           count > 0 && (
-            <micro-app name='remix-spa-app' url='http://localhost:5174/' iframe></micro-app>
+            <micro-app name='remix-spa-app' url='http://localhost:4173/' iframe></micro-app>
           )
         }
       </div>
